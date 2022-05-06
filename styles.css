@@ -1,0 +1,110 @@
+h3 {
+    color: rgb(40, 173, 6);
+    margin-left: 20px;
+  }
+ h1 {
+  position: absolute;
+  width: 800px;
+  height: 38px;
+  left: 500px;
+  top: 15px;
+  
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-style: bold;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 39px;
+  
+  color: #000000;
+ }
+ h2{
+  position: absolute;
+  width: 800px;
+  height: 38px;
+  left: 500px;
+  top: 55px;
+  
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 39px;
+  
+  color: #000000;
+ }
+ p{
+  position: absolute;
+  width: 800px;
+  height: 38px;
+  left: 500px;
+  top: 105px;
+  
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  
+  color: #000000;
+ }
+ ul {
+  margin-left: 25px;
+  
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  
+  color: #000000;
+ }
+ .skillsTable {
+  margin-left: 25px;
+  margin-bottom: 100px;
+  
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  
+  color: #000000;
+ }
+ .workExperience {
+  margin-left: 25px;
+  
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  
+  color: #000000;
+ }
+ .contactMe {
+  position: absolute;
+  width: 250px;
+  height: 38px;
+  left: 1600px;
+  top: 0px;
+  background-color: grey;
+  margin-top: 35px;
+  
+  
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 39px;
+  
+  color: #000000;
+  
+ }
+ .gifMe {
+  position: absolute;
+  left: 800px;
+  top: 500px;
+  background-color: grey;
+  margin-top: 35px;
+
+ }
